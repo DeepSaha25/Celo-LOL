@@ -4,6 +4,7 @@
 ![Uploading image.png…]()
 
 
+
 Welcome to lol, a fun and simple decentralized application (dApp) concept built on the Solidity language.
 
 This project is a beginner-friendly smart contract that lets users claim and permanently own a unique, on-chain color value. Think of it as a collectible registry where every color is a unique digital asset, permanently secured by the contract. 
