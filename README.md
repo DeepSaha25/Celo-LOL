@@ -1,7 +1,8 @@
 🌈 lol: The On-Chain Color Registry
 
 🌟 Project Description
-![Uploading image.png…]()
+<img width="3054" height="1450" alt="image" src="https://github.com/user-attachments/assets/8fec2aa6-b76a-4c32-8f2f-2b00a0ba9de4" />
+
 
 
 
