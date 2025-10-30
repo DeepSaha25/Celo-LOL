@@ -35,10 +35,4 @@ You can view the contract on the Celo Sepolia testnet explorer here:
 https://celo-sepolia.blockscout.com/address/0x773e851c787e2aB30B4F072350BCF96CE87De728
 
 
-@return The address of the owner. Returns the zero address if the color is unowned.
-*/
-function getColorOwner(uint256 _colorValue) public view returns (address) {
-// The 'view' keyword ensures this function does not modify the state and is free to call.
-return colorOwners[_colorValue];
-}
-}
+Thanks|| Made by ❤️ || Deep Saha
