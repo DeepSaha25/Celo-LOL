@@ -2,11 +2,11 @@
 pragma solidity ^0.8.0;
 
 /**
- * @title lol
+ * @title Chromachain
  * @dev A simple, beginner-friendly contract allowing users to claim and permanently own unique color values.
  * The color value is simply represented as a unique uint256 identifier.
  */
-contract lol {
+contract Chromachain {
 
     // Mapping to store the owner of a specific color value.
     // The key is the color (uint256), and the value is the owner's address.

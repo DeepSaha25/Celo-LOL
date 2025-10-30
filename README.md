@@ -1,17 +1,17 @@
-# 🌈 **lol: The On-Chain Color Registry**
+# 🌈 **Chromachain: The On-Chain Color Registry**
 
 A fun, creative, and beginner-friendly **decentralized smart contract** that allows users to **claim unique colors on-chain**.  
 Once claimed, each color becomes **permanently owned** and **immutably recorded** on the **Ethereum Virtual Machine (EVM)** — turning your favorite shade into a digital collectible.
 
 <p align="center">
-  <img width="100%" alt="lol smart contract demo" src="https://github.com/user-attachments/assets/8fec2aa6-b76a-4c32-8f2f-2b00a0ba9de4" />
+  <img width="100%" alt="Chromachain smart contract demo" src="https://github.com/user-attachments/assets/8fec2aa6-b76a-4c32-8f2f-2b00a0ba9de4" />
 </p>
 
 ---
 
 ## 🌟 **Project Description**
 
-Welcome to **`lol`**, a simple and playful decentralized registry built with **Solidity**.  
+Welcome to **`Chromachain`**, a simple and playful decentralized registry built with **Solidity**.  
 The project demonstrates **how to store and manage unique digital assets** on-chain — in this case, colors.
 
 Each color is represented as a number (for example, a HEX color converted to a decimal value).  
@@ -23,7 +23,7 @@ This project is designed for **beginners exploring Solidity, smart contract stor
 
 ## 💡 **What It Does**
 
-The **`lol`** contract serves as an **on-chain color registry** that allows users to claim ownership of specific colors:
+The **`Chromachain`** contract serves as an **on-chain color registry** that allows users to claim ownership of specific colors:
 
 - 🎨 **Claim a Color:** Call `pickColor(uint256 colorValue)` to register ownership of a unique color value.
 - 🔒 **Permanent Ownership:** Once a color is claimed, it cannot be reassigned or deleted.
