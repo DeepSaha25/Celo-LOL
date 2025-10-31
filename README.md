@@ -1,79 +1,46 @@
-# 🌈 **Chromachain: The On-Chain Color Registry**
+# 💻 C-Assignments-1st-Sem
 
-A fun, creative, and beginner-friendly **decentralized smart contract** that allows users to **claim unique colors on-chain**.  
-Once claimed, each color becomes **permanently owned** and **immutably recorded** on the **Ethereum Virtual Machine (EVM)** — turning your favorite shade into a digital collectible.
+A complete collection of C programming assignments for **1st Semester students**, designed to help beginners understand the fundamentals of programming through clear, well-commented examples.  
 
-<p align="center">
-  <img width="100%" alt="Chromachain smart contract demo" src="https://github.com/user-attachments/assets/8fec2aa6-b76a-4c32-8f2f-2b00a0ba9de4" />
-</p>
+This repository includes practical exercises covering **variables, loops, arrays, functions, and structures**, making it a great resource to practice core C programming concepts.
 
 ---
 
-## 🌟 **Project Description**
+## 🧭 Overview
 
-Welcome to **`Chromachain`**, a simple and playful decentralized registry built with **Solidity**.  
-The project demonstrates **how to store and manage unique digital assets** on-chain — in this case, colors.
-
-Each color is represented as a number (for example, a HEX color converted to a decimal value).  
-Users can **claim ownership** of their chosen color by interacting with the smart contract. Once claimed, that color is **permanently linked** to their wallet address.
-
-This project is designed for **beginners exploring Solidity, smart contract storage, mappings, and events**.
+C is one of the most influential programming languages taught in the first semester of computer science and related fields.  
+This repository helps students **learn, debug, understand, and practice** essential programming concepts through solved assignments and structured code files.
 
 ---
 
-## 💡 **What It Does**
 
-The **`Chromachain`** contract serves as an **on-chain color registry** that allows users to claim ownership of specific colors:
+## 🧰 Tools & Environment
 
-- 🎨 **Claim a Color:** Call `pickColor(uint256 colorValue)` to register ownership of a unique color value.
-- 🔒 **Permanent Ownership:** Once a color is claimed, it cannot be reassigned or deleted.
-- 🚫 **Uniqueness Enforced:** Each color can be owned by only one wallet address.
-- 🔍 **Transparency:** Anyone can check the owner of a color using `getColorOwner(uint256 colorValue)`.
-
----
-
-## ✨ **Features**
-
-| Feature | Description |
-| :-- | :-- |
-| 🎯 **Permanent Ownership** | Once claimed, a color remains owned by the wallet forever. |
-| 🧩 **Enforced Uniqueness** | No two users can claim the same color — the contract ensures this with `require`. |
-| ⛽ **Gas Efficient** | Simple and clean logic, keeping gas costs minimal. |
-| 📡 **Event Logging** | Emits `ColorPicked` when a color is claimed, enabling real-time frontend updates. |
-| 🧠 **Educational** | Great learning example for Solidity beginners exploring mappings and events. |
+| Category | Details |
+|-----------|----------|
+| 💻 Language | C |
+| ⚙️ Compiler | GCC / Code::Blocks / Turbo C |
+| 🧪 OS Tested | Windows & Linux |
+| 🌍 Version Control | Git & GitHub |
 
 ---
 
-## 🤖 **Smart Contract Details**
+## 👥 Contributors
 
-| Category | Detail |
-| :-- | :-- |
-| **Language** | Solidity ^0.8.0 |
-| **Compiler** | EVM-compatible |
-| **Network** | Celo Sepolia Testnet |
-| **Contract Address** | `0x773e851c787e2aB30B4F072350BCF96CE87De728` |
-| **Block Explorer** | [View on Blockscout](https://celo-sepolia.blockscout.com/address/0x773e851c787e2aB30B4F072350BCF96CE87De728) |
+| Name | GitHub Profile |
+|------|----------------|
+| Deep Saha | [@Deepsaha15](https://github.com/DeepSaha25) |
+| Abiroy Karmakar | [@AbiroyKarmakar21](https://github.com/AbiroyKarmakar21) |
 
 ---
 
-## 🔮 **Future Enhancements**
+## 📜 License
 
-- 🧭 **Interactive DApp:** Build a React or Next.js frontend using **Ethers.js** or **Web3.js** to let users visually pick and claim colors.  
-- 🖼️ **Color Gallery:** Create an on-chain/off-chain hybrid gallery showing all claimed colors in real time.  
-- 🛡️ **Color Metadata:** Extend the contract to store user-defined metadata (name, hex code, description).  
-- 🌐 **NFT Integration:** Convert each claimed color into a lightweight **ERC-721 NFT**, making it tradeable.  
+This project is open-source and available under the **MIT License**.  
+You are free to use, modify, and distribute the code with proper attribution.
 
 ---
 
-## 🙏 **Acknowledgments**
+## 🌟 Support
 
-- 💛 **Celo Blockchain** — For offering a sustainable and developer-friendly environment for deploying smart contracts.  
-- 🧰 **Remix IDE** — For providing an excellent platform for writing, deploying, and testing Solidity contracts.  
-
----
-
-<p align="center">
-  Made with ❤️ by <b>Deep Saha</b>  
-  <br><br>
-  <b>⭐ Don't forget to star this repository if you found it helpful!</b>
-</p>
+If you find this repository helpful, don't forget to **star** ⭐ the repo and **follow** the contributors on GitHub to stay updated!
